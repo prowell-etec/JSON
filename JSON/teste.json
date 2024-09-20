@@ -1,0 +1,10 @@
+{
+  "nome": "Joao",
+  "idade": 25,
+  "casado": false,
+  "filhos": ["Ana", "Samuel"],
+  "endereço": {
+    "rua": "Expedicionários",
+    "número": 10
+  }
+}
